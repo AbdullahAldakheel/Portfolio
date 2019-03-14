@@ -1,0 +1,25 @@
+.topM {
+    color: darkblue;
+    text-align: center;
+}
+.sizeLogo {
+    text-align: center;    
+    position: relative;
+    
+}
+table{
+position: middle;
+}
+table th:hover,td:hover{
+    background: cyan;
+    text-underline-position: hide;
+    display: flex;
+}
+hr{
+     color="black";
+    border-top-color: aqua;
+    width: 520px;
+}
+footer{
+        text-align: center;
+}
